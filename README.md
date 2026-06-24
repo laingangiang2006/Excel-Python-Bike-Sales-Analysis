@@ -21,10 +21,10 @@ Datasets for the first two projects are sourced from Microsoft's courses on Cour
 
 | Tools | Purpose |
 |------|-------------|
-| **Microsoft Excel** | Data analysis, pivot tables, charts |
+| **Microsoft Excel** | Data cleaning |
 | **CSV** | Raw data storage and portability |
 | **Python and Python Libraries (Pandas, Matplotlib, Seaborn)** | Data analysis, visualization for bike sales data including product categories, order trends, and customer behavior |
-| **Jupyter Notebook** | Jupyter Notebook |
+| **Jupyter Notebook** | Jupyter notebook |
 
 ---
 
