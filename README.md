@@ -19,7 +19,7 @@ Datasets for the first two projects are sourced from Microsoft's courses on Cour
 
 ## Tools Used
 
-| Tools | Purpose |
+| Tool/Language | Purpose |
 |------|-------------|
 | **Microsoft Excel** | Data cleaning |
 | **CSV** | Raw data storage and portability |
