@@ -17,7 +17,7 @@ Datasets for the first two projects are sourced from Microsoft's courses on Cour
 
 ---
 
-## Tools Used
+## Tools & Languages
 
 | Tool/Language | Purpose |
 |------|-------------|
