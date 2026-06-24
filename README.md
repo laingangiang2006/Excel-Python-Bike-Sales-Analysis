@@ -13,7 +13,7 @@ Datasets for the first two projects are sourced from Microsoft's courses on Cour
 | [README.md](https://github.com/laingangiang2006/Excel-Python-Bike-Sales-Analysis/blob/main/README.md) | Project documentation |
 | [Dataset](https://github.com/laingangiang2006/Excel-Python-Bike-Sales-Analysis/blob/main/Dataset.csv) | Raw dataset |
 | [Excel Notebook](https://github.com/laingangiang2006/Excel-Python-Bike-Sales-Analysis/blob/main/Excel%20Notebook.xlsx) | Cleaned Excel Notebook |
-| [Jupyter Notebook](https://github.com/laingangiang2006/Excel-Python-Bike-Sales-Analysis/blob/main/Jupyter%20Notebook.ipynb) | Jupyter Notebook for Data analysis and Visualization |
+| [Jupyter Notebook](https://github.com/laingangiang2006/Python-Excel-Bike-Sales-Analysis/blob/main/Jupyter%20Notebook.ipynb) | Jupyter Notebook for Data analysis and Visualization |
 
 ---
 
