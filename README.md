@@ -29,7 +29,7 @@ Datasets for the first two projects are sourced from Microsoft's courses on Cour
 | **Microsoft Excel** | Data cleaning |
 | **CSV** | Raw data storage and portability |
 | **VSCode** | Text editor |
-| **Jupyter Notebook** | Jupyter notebook |
+| **Jupyter Notebook** | Jupyter notebook for data analysis and visualization, using Python |
 | **Python and Python Libraries (Pandas, Matplotlib, Seaborn)** | Data analysis, visualization |
 
 ---
